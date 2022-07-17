@@ -8,6 +8,6 @@ https://www.youtube.com/watch?v=8hhS9e9d3fU
 
 
 
-Démonstration d'un outil que j'ai crée pour le jeu pour gérer la distance de fading des sons avec FMOD :
+Démonstration d'un outil que j'ai crée pour le jeu pour gérer la distance de fading des sons FMOD :
 
 https://www.youtube.com/watch?v=LNnF4A2FBwE
