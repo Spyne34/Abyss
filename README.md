@@ -2,6 +2,10 @@
 
 produit par 5 graphistes et 5 programmeurs de troisième année sur un temps de production d'environ 12 semaines ce jeu contemplatif est réalisé à l'aide du moteur Unreal Engine 4.
 
+Description et téléchargement du jeu :
+
+https://www.creajeux.fr/project/abyss/
+
 Trailer : 
 
 https://www.youtube.com/watch?v=8hhS9e9d3fU
