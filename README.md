@@ -13,6 +13,6 @@ Description et téléchargement du jeu :
 https://www.creajeux.fr/project/abyss/
 
 
-Démonstration d'un outil que j'ai crée pour le jeu pour gérer la distance de fading des sons FMOD :
+Démonstration d'un outil que j'ai créé pour le jeu pour gérer la distance de fading des sons FMOD :
 
 https://www.youtube.com/watch?v=LNnF4A2FBwE
